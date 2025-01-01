@@ -1,4 +1,4 @@
-# Duck Run
+# DuckRun
 
 #### Description:
 Wanted to try out mobile development so I decided to make an android game in Unity, my aim with this was to make something that is fun, infinitely replayable and easy for anyone to pick up and understand how to play. I decided to drop this game because I felt the gameplay was too simple and lacked depth. 
