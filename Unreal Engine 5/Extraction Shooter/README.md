@@ -7,7 +7,7 @@ Did a project working on a video game solo for 12 months in Unreal Engine 5 that
 Making a full video game solo in Unreal Engine 5
 
 #### Tools&Tech Used:
-Made with the Unreal Engine 5 with C++ and Blueprints
+Made with Unreal Engine 5 using C++ and Blueprints
 
 #### Impact on me:
 Improving Skills In Unreal Engine 5 on a deeper level
