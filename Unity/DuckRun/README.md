@@ -13,8 +13,13 @@ Made with Unity using C#
 
 #### Impact on me:
 Learning Android Mobile Development
+
 Learning How To Implement Customisation Options
+
 Learning And Implementing Dictionaries
+
 Learning And Implementing Structs
+
 Learning And Implementing Unity Ads System
+
 Learning And Implementing JSON save files
