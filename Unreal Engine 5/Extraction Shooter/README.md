@@ -34,7 +34,7 @@ Improving Tutorial Making Skills
 
 Making Items "carry over" between levels
 
-### Images
+### Images:
 
 ![img1](https://raw.githubusercontent.com/MyNamesLex/Cancelled-Projects/main/Unreal%20Engine%205/Extraction%20Shooter/Images/img1.png)
 
