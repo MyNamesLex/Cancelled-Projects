@@ -26,7 +26,7 @@ Learning And Implementing JSON save files
 
 ### Images:
 
-<img src="https://raw.githubusercontent.com/MyNamesLex/Cancelled-Projects/main/Unity/DuckRun/Images/img1.png" width="300" height="600"/>
-<img src="https://raw.githubusercontent.com/MyNamesLex/Cancelled-Projects/main/Unity/DuckRun/Images/img2.png" width="300" height="600"/>
-<img src="https://raw.githubusercontent.com/MyNamesLex/Cancelled-Projects/main/Unity/DuckRun/Images/img3.png" width="300" height="600"/>
-<img src="https://raw.githubusercontent.com/MyNamesLex/Cancelled-Projects/main/Unity/DuckRun/Images/img4.png" width="300" height="600"/>
+<img src="https://raw.githubusercontent.com/MyNamesLex/Cancelled-Projects/main/Unity/DuckRun/Images/Image1.png" width="300" height="600"/>
+<img src="https://raw.githubusercontent.com/MyNamesLex/Cancelled-Projects/main/Unity/DuckRun/Images/Image2.png" width="300" height="600"/>
+<img src="https://raw.githubusercontent.com/MyNamesLex/Cancelled-Projects/main/Unity/DuckRun/Images/Image3.png" width="300" height="600"/>
+<img src="https://raw.githubusercontent.com/MyNamesLex/Cancelled-Projects/main/Unity/DuckRun/Images/Image4.png" width="300" height="600"/>
