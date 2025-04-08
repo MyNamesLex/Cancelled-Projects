@@ -30,5 +30,3 @@ Learning And Implementing JSON save files
 <img src="https://raw.githubusercontent.com/MyNamesLex/Cancelled-Projects/main/Unity/DuckRun/Images/img2.png" width="300" height="600"/>
 <img src="https://raw.githubusercontent.com/MyNamesLex/Cancelled-Projects/main/Unity/DuckRun/Images/img3.png" width="300" height="600"/>
 <img src="https://raw.githubusercontent.com/MyNamesLex/Cancelled-Projects/main/Unity/DuckRun/Images/img4.png" width="300" height="600"/>
-<img src="https://raw.githubusercontent.com/MyNamesLex/Cancelled-Projects/main/Unity/DuckRun/Images/img5.png" width="300" height="600"/>
-<img src="https://raw.githubusercontent.com/MyNamesLex/Cancelled-Projects/main/Unity/DuckRun/Images/img6.png" width="300" height="600"/>
