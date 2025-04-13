@@ -26,7 +26,7 @@ Learning Blueprint Interfaces and C++ Interfaces
 
 Learing Blueprint Widgets
 
-Developing Inventory and Inventory Manaagement with Picking Up and Dropping Items
+Developing Inventory and Inventory Management with Picking Up and Dropping Items
 
 Improving Game Design and Level Design skills
 
